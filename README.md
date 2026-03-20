@@ -51,9 +51,6 @@ Bless us/
 
 ---
 
-## 📸 Screenshots
-
-*(Screenshots can be added here to showcase the UI)*
 
 ---
 
